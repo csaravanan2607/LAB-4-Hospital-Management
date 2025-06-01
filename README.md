@@ -6,7 +6,7 @@ It is very imporatant to maintain efficient software to handle information of a 
 This application provides a way to record this information and to access these in a simple way.
 
 ### UML DIAGRAMS:
-### Usecase Diagram:
+### Use case Diagram:
 <img width="827" alt="Screenshot 2025-05-30 at 9 47 26 PM" src="https://github.com/user-attachments/assets/8c899fdc-04f2-4770-a9f1-e3c1a94ff6aa" />
 
 ### Sequence Diagram:
